@@ -41,6 +41,10 @@ Este repositorio es para la materia de Estructura y Organización de Datos.
 <ol>
   <li>Algoritmo: Es un conjunto de instrucciones sistemáticas y previamente definidas. Estas se usan para hacer una tarea. Estas instrucciones están ordenadas en forma de pasos a seguir para alcanzar y lograr un objetivo.</li>
   <li>Estructura de datos:  Son herramientas que al momento de desarrollar, nos permiten, organizar la información de manera eficiente, para diseñar la solución más correcta para un determinado problema.</li>
+  <li>Estructuras de datos líneales: Son aquellas en las que los elementos ocupan lugares sucesivos en la estructura y cada uno de ellos tienen un único sucesor y un único predecesor.</li>
+  <li>Estructuras de datos no-líneales: Son aquellas en las que cada elemento pued estar enlazado a cualquier otro componente.</li>
+  <li>Estructuras de datos dinámicas: Se considera dinámica si para su creación se van generando o eliminando elemntos al momento de ejecución</li>
+   <li>Estructuras de datos estáticos: Son aquellas en las que las que el tamaño ocupado en la memoria se define antes de que el programa se ejecute y no puede modificarse mientras se ejecute el programa.</li>
   <li>Datos: Son un valor que recibe la computadora por diferentes medios, estos representan la información que el desarrollador manipula en la construcción y desarrollo de una solución o en el desarrollo y realozación de un algoritmo.</li>
   <li>Información: Se le llama así al conjunto de datos que se encuentran organizados y procesados, que a su vez, funcionan como mensajes, instrucciones y operaciones, así como cualquier otro tipo de actividad que tenga lugar en una computadora.</li>
   <li>Metadatos: Son información que caracteriza datos, describen el contenido, calidad, condiciones, historia, disponibilidad y otras características de los datos. Se usan en el lenguaje de hipertexto HTML para aportar información al servidor, navegador y a los programas automáticos.</li>
