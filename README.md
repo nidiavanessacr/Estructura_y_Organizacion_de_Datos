@@ -52,3 +52,22 @@ Este repositorio es para la materia de Estructura y Organización de Datos.
   <li>Ciencia de datos: Es el estudio de datos, este tiene el fin de extraer información significativa. Es un enfoque multidisciplinario que combina principios y prácticas del campo de las matemáticas, la estadística, la inteligencia artificial y la ingeniería de computación para analizar grandes cantidades de datos.</li>
   <li>Bases de datos: Son una herramienta para recopilar y organizar datos e información. Estas pueden almacenar información sobre personas, productos, pedidos u otros datos. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto.</li>
 </ol>
+
+## Unidad 2
+
+### Conceptos
+
+<ol>
+  <li>Listas:  Es un tipo de dato abstracto, representa una secuencia ordenada de valores, donde el mismo valor puede ocurrir más de una vez.</li>
+  <li>Estructura de datos:  Son herramientas que al momento de desarrollar, nos permiten, organizar la información de manera eficiente, para diseñar la solución más correcta para un determinado problema.</li>
+  <li>Diccionarios: Son una estructura de datos adecuada para programar una aplicación de control de stock, esta permite manejar de una forma sencilla el inventario de productos de un negocio.</li>
+  <li>Diferencias entre listas y diccionarios: Una lista es una colección de pares de valores de índice. Mientras que el diccinario es una estructura, de pares, clave y valor.</li>
+   <li>Pilas: Son una colección de datos a los cuales se puede acceder mediante un extremo, que se conoce generalmente como tope.</li>
+  <li>Pilas estáticas: Es la implementación de una pila utilizando un arreglo de tamaño fijo. En una pila estática, el tamaño máximo de la pila se define al momento de su creación y no puede ser modificado durante la ejecución del programa.</li>
+  <li>Pilas dinámicas: Es aquella en la que el tamaño ocupado en memoria puede modificarse durante la ejecución del programa.</li>
+  <li>Colas: Es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista.</li>
+  <li>Colas estáticas y dinámicas: Las estáticas se les considera así si tienen un tamaño definido y no pueden superar dicha capacidad para el almacenamiento de más información, solo la indicada. Las dinámicas se les considera así porque agrupan elemntos como si fueran una cola, por ejemplo una fila de personas </li>
+  <li>Lenguaje de programación R: Es un entorno y lenguaje de programación con un enfoque al análisis estadístico. R nació como una reimplementación de software libre del lenguaje S, adicionado con soporte para ámbito estático.</li>
+  <li>Lenguaje de programación Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo</li>
+  <li>Lenguaje de programación JavaScript: Es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas. Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de JavaScript pueden mejorar la experiencia del usuario de un sitio web. .</li>
+</ol>
