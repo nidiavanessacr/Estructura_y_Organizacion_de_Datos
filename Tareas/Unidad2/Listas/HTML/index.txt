@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Listas html</title>
+</head>
+<body>
+
+<h1>Esto es una lista en HTML</h1>
+
+    <ul>
+        <li>Eduardo Flores Gallegos</li>
+        <li>Nidia Vanessa Chávez Rendón</li>
+        <li>Sajith Alexandro</li>
+        <li>Emmanuel de Jesús Esparza</li>
+        <li>Melany Chávez</li>
+        <li>Fernanda Pantoja</li>
+        <li>Jonathan de Jesús</li>
+        <li>Santiago Herrera</li>
+        <li>juan Prieto</li>
+        <li>Aylin Martínez Santos</li>
+        <li>Xitlali Gonzalez</li>
+        <li>Rainer Gael</li>
+        <li>Zuleyma de Jesús</li>
+        <li>Axel Olivares</li>
+    </ul>
+
+</body>
+</html>
