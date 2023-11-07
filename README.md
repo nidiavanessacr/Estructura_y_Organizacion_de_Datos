@@ -71,3 +71,23 @@ Este repositorio es para la materia de Estructura y Organización de Datos.
   <li>Lenguaje de programación Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo</li>
   <li>Lenguaje de programación JavaScript: Es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas. Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de JavaScript pueden mejorar la experiencia del usuario de un sitio web. .</li>
 </ol>
+
+## Unidad 3: Estructuras no líneales
+
+### Conceptos
+
+<ol>
+  <li>Recursividad: Es la propiedad que tienen los procedimientos y funciones de llamarse a si mismos para resolver un problema. Permite describir un número infinito de operaciones de cálculo mediante un programa recursivo finito sin implementar de forma explícita estructuras repetitivas.</li>
+  <li>Árboles: Es una estructura (Posiblemente no lineal) de datos compuesta de nodos, vértices y aristas que es acíclica. Un árbol que no tiene ningún nodo se llama árbol vacío o nulo. Un árbol que no está vacío consta de un nodo raíz y potencialmente muchos niveles de nodos adicionales que forman una jerarquía.</li>
+  <li>Gráfos: Son estructuras de datos, es decir, tipos de datos abstractos, comúnmente los grafos son utilizados para el modelado de problemas. Un grafo es un conjunto no vacıo de objetos o entes fısicos que tienen relación entre ellos.</li>
+</ol>
+
+## Unidad 4: Métodos de Ordenamiento y Búsqueda
+
+### Conceptos
+
+<ol>
+  <li>Métodos de Ordenamiento: Es la operación de arreglar los elementos en algún orden secuencial de acuerdo a un criterio de ordenamiento. El propósito principal de un ordenamiento es el de facilitar las búsquedas de los miembros del conjunto ordenado.</li>
+  <li>Métodos de Búsqueda: Es un conjunto de instrucciones que están diseñadas para localizar un elemento con ciertas propiedades dentro de una estructura de datos; por ejemplo, ubicar el registro correspondiente a cierta persona en una base de datos, o el mejor movimiento en una partida de ajedrez.</li>
+  <li>Recuperación de Datos: Se puede definir como un proceso de obtención de la información que se encuentra en un dispositivo de almacenamiento al que no se puede acceder utilizando los medios estándar debido a su borrado previo o a ciertos daños en el dispositivo</li>
+</ol>
